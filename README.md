@@ -1,2 +1,1 @@
-# BitStream
-BitStream is a cryptocurrency tracking platform that offers real-time market data, live prices, and charts. Built with HTML, CSS, Bootstrap, and PHP, it provides an intuitive user experience for tracking digital assets.
+"Introducing CryptoVerse! 🌐 My latest responsive project, built with HTML, CSS, and JavaScript, dives into the world of cryptocurrency. Excited to share this journey and bring crypto insights to life! hashtag#WebDevelopment hashtag#CryptoVerse hashtag#JavaScript hashtag#ResponsiveDesign hashtag#CryptoTech"
